@@ -8,13 +8,13 @@ the program simply needs to know what the file headers are.
 
 Sample input files are provided. Simply pass the name of a .bmp file (which is in the same directory) to the program.
 Output files consist of:
-lena0-bg.jpg
-lena1-b.jpg
-lena1-g.jpg
-lena1-r.jpg
-lena2-bg.jpg
-lena2-br.jpg
-lena3-b.docx
-lena3-gr.pdf
-lena4-bgr.mp3
-lena5-g.bmp
+ - lena0-bg.jpg
+ - lena1-b.jpg
+ - lena1-g.jpg
+ - lena1-r.jpg
+ - lena2-bg.jpg
+ - lena2-br.jpg
+ - lena3-b.docx
+ - lena3-gr.pdf
+ - lena4-bgr.mp3
+ - lena5-g.bmp
