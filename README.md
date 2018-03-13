@@ -6,7 +6,7 @@ scanned by the program to find the file.
 It only searches for .pdf, .jpg, .bmp, .docx, and .mp3 files; allowing the program to search for additional files is trivial,
 the program simply needs to know what the file headers are. 
 
-##### Note: the files you pass to the program must be in the same directory as the program
+#### Note: the files you pass to the program must be in the same directory as the program
 
 Sample input files are provided. Simply pass the name of a .bmp file (which is in the same directory) to the program.
 Output files consist of:
