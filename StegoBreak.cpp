@@ -1,6 +1,6 @@
 /* 
  * File:   StegoBreak.cpp
- * Author: Tristan Gay, Rinku Dewri (BMP constants, BMP struct, ReadBMP, GetRGB)
+ * Author: TG, Rinku Dewri (BMP constants, BMP struct, ReadBMP, GetRGB)
  */
 
 #include <cstdlib>
